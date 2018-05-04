@@ -1,4 +1,4 @@
 adding text
-line1
+line1 in testconflict
 line2
 
